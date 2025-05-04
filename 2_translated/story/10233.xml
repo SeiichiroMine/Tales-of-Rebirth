@@ -97,7 +97,8 @@
       <EnglishText>&lt;Green&gt;The &lt;Red&gt;Battle Book&lt;Green&gt; contains information about
 enemies and terms used for battle. It also
 has explanations on various aspects of the
-battle system.</EnglishText>
+battle system. The &lt;Red&gt;Battle Book&lt;Green&gt; IS this
+game's tutorial, so &lt;Red&gt;please read it.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -175,7 +176,7 @@ be really cold...</EnglishText>
     <Entry>
       <PointerOffset>2415</PointerOffset>
       <JapaneseText>クレアは平気だったのかな？</JapaneseText>
-      <EnglishText>Is Claire alright?</EnglishText>
+      <EnglishText>Is Claire all right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -300,7 +301,7 @@ Is she...back to normal?</EnglishText>
 どうもです。
 </JapaneseText>
       <EnglishText>Oh, are you a friend
-of &lt;Veigue&gt;? Nice to
+of &lt;Veigue&gt;'s? Nice to
 meet you.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>

@@ -59,11 +59,11 @@
       <PointerOffset>1248</PointerOffset>
       <JapaneseText>キャラクターの頭上にある★は
 そのキャラクターの体力値です。</JapaneseText>
-      <EnglishText>The ★s above a character's head
+      <EnglishText>The ★'s above a character's head
 show the amount of life they have.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1280</PointerOffset>
@@ -158,7 +158,7 @@ the ground. &lt;color:206060D0&gt;(With some exceptions.)</EnglishText>
       <PointerOffset>2787</PointerOffset>
       <JapaneseText>盛り上がった地面を乗り越えての
 移動はできません。</JapaneseText>
-      <EnglishText>Travelling over the risen
+      <EnglishText>Traveling over the risen
 ground is not possible.</EnglishText>
       <Notes/>
       <Id>16</Id>

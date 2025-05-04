@@ -32,7 +32,7 @@ You wouldn't wanna get on his bad side!</EnglishText>
 最強の能力者なんだ……なんて　ネ♪</JapaneseText>
       <EnglishText>I fight using Tonfa combined with my
 amazing &lt;Yellow&gt;Force of Fire&lt;White&gt;! I'm always holding
-back, but I'm actually the strongest!♪</EnglishText>
+back, but I'm actually the strongest♪</EnglishText>
       <Notes>need to be checked by lauren</Notes>
       <Id>3</Id>
       <Status>Problematic</Status>
@@ -44,10 +44,10 @@ back, but I'm actually the strongest!♪</EnglishText>
 でも、いつか越えてみせる！　なんてネ！</JapaneseText>
       <EnglishText>A spearman who bears the &lt;Yellow&gt;Force of Steel&lt;White&gt;.
 He's just soooo perfect at everything. I'll
-surpass him...one day! Heh heh!</EnglishText>
+surpass him...one day! Just kidding!</EnglishText>
       <Notes>need to be checked by lauren</Notes>
       <Id>4</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19552</PointerOffset>
@@ -67,9 +67,10 @@ I feel bad for hurting her when we battled!</EnglishText>
 黙ってればイイ男なのに、よくしゃべる。
 その上、拳でも語っちゃう熱い男だよネ！</JapaneseText>
       <EnglishText>A martial artist who bears the &lt;Yellow&gt;Force of
-Wood&lt;White&gt;. I wish he didn't talk so much...
+&lt;Yellow&gt;Wood&lt;White&gt;. I wish he didn't talk so much...
 He's hot-blooded and talks with his fists!</EnglishText>
-      <Notes>need to be checked by lauren</Notes>
+      <Notes>need to be checked by lauren
+the second yellow tag is needed because of the way the battle book works.</Notes>
       <Id>6</Id>
       <Status>Problematic</Status>
     </Entry>
@@ -170,7 +171,7 @@ them a walk in the park!</EnglishText>
       <JapaneseText>氷がバイラス化し鳥の形になったバイラス。
 なかなかすばしっこくてあなどれないネ。
 ボクの炎で溶かしちゃうぞ！</JapaneseText>
-      <EnglishText>An ice Birus is the shape of a bird.
+      <EnglishText>An ice Birus in the shape of a bird.
 Smart like a crow, but no match for
 my flames!</EnglishText>
       <Notes/>
@@ -448,9 +449,9 @@ Watch out for the poison gas!</EnglishText>
 It kicks with its hind legs, but when
 enraged, this cainine bears its sharp
 canines.</EnglishText>
-      <Notes/>
+      <Notes>lauren is going to replace this one.</Notes>
       <Id>38</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>19700</PointerOffset>
@@ -699,10 +700,10 @@ because it's allergic to Light.</EnglishText>
 料理をやらせたらいいかも……なんてネ！</JapaneseText>
       <EnglishText>A fox Birus. It has a bladelike tail
 that's super sharp. Maybe it'd make
-a nice kitchen knife...or something!</EnglishText>
+a nice kitchen knife... Just kidding!</EnglishText>
       <Notes/>
       <Id>59</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19784</PointerOffset>
@@ -1081,9 +1082,9 @@ gemstone that'll bind us. Adorable, yet scary.</EnglishText>
       <JapaneseText>闇を司る聖獣イーフォン。
 あの大剣の射程距離はハンパじゃない。
 ガードしないと大変だネ。</JapaneseText>
-      <EnglishText>The Sacred Beast of Darkness, Eephon.
-His sword's got a massive reach, so make
-sure you guard against it.</EnglishText>
+      <EnglishText>The Sacred Beast of Shade, Eephon.
+His sword's got a massive reach, so
+make sure you guard against it.</EnglishText>
       <Notes/>
       <Id>91</Id>
       <Status>Proofreading</Status>
@@ -1230,7 +1231,7 @@ magic immediately, so chase them
 down fast! Or don't, I guess.</EnglishText>
       <Notes/>
       <Id>103</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19960</PointerOffset>

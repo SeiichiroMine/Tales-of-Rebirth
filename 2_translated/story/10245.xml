@@ -118,8 +118,9 @@
       <JapaneseText>……大丈夫よ、&lt;Veigue&gt;。
 ちょっとした打ち身と
 かすり傷だけで済んだんだから。</JapaneseText>
-      <EnglishText>...I'm fine, &lt;Veigue&gt;. It's just a 
-couple of bruises and scratches.</EnglishText>
+      <EnglishText>...I'm fine, &lt;Veigue&gt;.
+It's just a couple of
+bruises and scratches.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -143,8 +144,8 @@ couple of bruises and scratches.</EnglishText>
 ありがとう、助けに来てくれて。
 ひとりじゃ、あの崖を登って
 戻る事なんてできなかった……</JapaneseText>
-      <EnglishText>Yes... Thank you for coming to help 
-me. I don't think I could've climbed 
+      <EnglishText>Yes... Thank you for coming to help
+me. I don't think I could've climbed
 back up that cliff by myself...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -157,9 +158,9 @@ back up that cliff by myself...</EnglishText>
       <JapaneseText>オレは、いつでも助けに行く。
 おまえが困っていたら……
 おまえが……泣いていたら……</JapaneseText>
-      <EnglishText>Whenever you need me, I'll be
-there to help you. If you're ever 
-in trouble... If you're ever crying...</EnglishText>
+      <EnglishText>Whenever you need me, I'll be there to
+help you. If you're ever in trouble...
+If you're ever crying...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -323,7 +324,7 @@ We were all worried about you.</EnglishText>
       <VoiceId>2200000d</VoiceId>
       <JapaneseText>&lt;Claire&gt;……！　大丈夫か？
 無理をするな。</JapaneseText>
-      <EnglishText>&lt;Claire&gt;! Are you alright?
+      <EnglishText>&lt;Claire&gt;! Are you all right?
 Don't push yourself.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -754,7 +755,7 @@ for us, &lt;Annie&gt;.</EnglishText>
       <PointerOffset>1436</PointerOffset>
       <JapaneseText>クレア、旅がつらくなったら、
 いつでも帰っておいで。</JapaneseText>
-      <EnglishText>Claire, if travelling ever 
+      <EnglishText>Claire, if traveling ever 
 becomes too much, feel 
 free to come home.</EnglishText>
       <Notes/>
@@ -766,7 +767,7 @@ free to come home.</EnglishText>
       <PointerOffset>1458</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;も、クレアの事、
 しっかり守ってやってくれ。</JapaneseText>
-      <EnglishText>Make sure that &lt;Veigue&gt;
+      <EnglishText>Make sure that you
 and Claire stay safe.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -870,7 +871,7 @@ that you have done for us.</EnglishText>
     <Entry>
       <PointerOffset>1111</PointerOffset>
       <JapaneseText>どうぞ、ごゆっくり。</JapaneseText>
-      <EnglishText>Sweet dreams.</EnglishText>
+      <EnglishText>Make yourself at home.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>

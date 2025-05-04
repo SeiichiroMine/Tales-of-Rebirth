@@ -97,8 +97,8 @@
 そう言う勇気がなかった
 ばっかりに……ゴメンなさい……</JapaneseText>
       <EnglishText>I never held anything against you...
-I just never had the courage to
-speak up... I'm sorry...</EnglishText>
+I just never had the courage to speak
+up... I'm sorry...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -359,7 +359,7 @@ we've just finished eating.</EnglishText>
     <Entry>
       <PointerOffset>2446</PointerOffset>
       <JapaneseText>大丈夫かしら？</JapaneseText>
-      <EnglishText>Is he alright?</EnglishText>
+      <EnglishText>Is he all right?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>

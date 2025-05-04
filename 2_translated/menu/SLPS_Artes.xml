@@ -21,11 +21,11 @@
       <PointerOffset>1051596</PointerOffset>
       <JapaneseText>圧縮した冷気で切り込む特技。水属性を付加。
 特技は通常攻撃から連携できる。</JapaneseText>
-      <EnglishText>Aqua-elemental attack that slashes
+      <EnglishText>Water elemental attack that slashes
 enemies with a frigid blade.</EnglishText>
       <Notes/>
       <Id>1218</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1051640</PointerOffset>
@@ -225,7 +225,7 @@ speed and makes the user difficult to hit.</EnglishText>
       <PointerOffset>1052220</PointerOffset>
       <JapaneseText>武器に水属性を付加し、凍結の潜在効果を
 加える練術。発動時にＲＧが半分になる。</JapaneseText>
-      <EnglishText>Adds aqua element and chance to freeze to
+      <EnglishText>Adds Water element and chance to freeze to
 &lt;Veigue&gt;'s weapon. Also halves current RG.</EnglishText>
       <Notes/>
       <Id>1242</Id>
@@ -749,7 +749,7 @@ on contact with the ground.</EnglishText>
       <PointerOffset>1053364</PointerOffset>
       <JapaneseText>裁きの十字架で敵を葬る闇系導術。
 敵の大きさ・重さによっては高威力が期待できる。</JapaneseText>
-      <EnglishText>Crushes enemies with a cross of judgement.
+      <EnglishText>Crushes enemies with a cross of judgment.
 </EnglishText>
       <Notes/>
       <Id>1302</Id>
@@ -801,11 +801,11 @@ Can be used to escape from a sticky situation.</EnglishText>
       <PointerOffset>1053468</PointerOffset>
       <JapaneseText>一定時間、武器に火属性を加え、武器ダメージ
 を２倍にする錬術。操作キャラならおすすめ。</JapaneseText>
-      <EnglishText>Applies flame element to &lt;Mao&gt;'s weapon
+      <EnglishText>Applies Fire element to &lt;Mao&gt;'s weapon
 and doubles damage for a short time.</EnglishText>
       <Notes/>
       <Id>1308</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1053512</PointerOffset>
@@ -1092,7 +1092,7 @@ then slams them to the ground.</EnglishText>
       <JapaneseText>一定時間導術攻撃にのけぞらずに行動できる
 錬術。ダメージは受けるので注意。</JapaneseText>
       <EnglishText>Prevents spells from staggering
-for a short period of time.</EnglishText>
+you for a short period of time.</EnglishText>
       <Notes/>
       <Id>1341</Id>
       <Status>Proofreading</Status>
@@ -1561,11 +1561,11 @@ and cures P. Defense down and Freeze.</EnglishText>
       <PointerOffset>1055132</PointerOffset>
       <JapaneseText>範囲内の味方の術攻撃力を上昇させると同時に
 術攻撃力減少・マヒを解除する弧法陣を張る陣術。</JapaneseText>
-      <EnglishText>Increases F. Attack of allies within the circle
-and cures F. Attack down and Paralysis.</EnglishText>
+      <EnglishText>Increases F. ATK of allies within the circle
+and cures F. ATK down and Paralysis.</EnglishText>
       <Notes/>
       <Id>1395</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1055176</PointerOffset>
@@ -1867,8 +1867,8 @@ of allies within range.</EnglishText>
       <PointerOffset>1055964</PointerOffset>
       <JapaneseText>発動中、味方全員が、ＲＧに関係なく
 奥義を発動できるようになる陣術奥義。</JapaneseText>
-      <EnglishText>When active, all allies can
-perform Artes regardless of RG.</EnglishText>
+      <EnglishText>When active, all allies can perform
+Fusion Force regardless of RG.</EnglishText>
       <Notes/>
       <Id>1429</Id>
       <Status>Proofreading</Status>
@@ -2128,10 +2128,10 @@ followed by a palm strike.</EnglishText>
     <Entry>
       <PointerOffset>1056528</PointerOffset>
       <JapaneseText>愚連連天脚</JapaneseText>
-      <EnglishText>Relentless Kick</EnglishText>
+      <EnglishText>Relentless Dance</EnglishText>
       <Notes/>
       <Id>1459</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056532</PointerOffset>
@@ -2154,10 +2154,10 @@ followed by a palm strike.</EnglishText>
     <Entry>
       <PointerOffset>1056580</PointerOffset>
       <JapaneseText>飛連斬空脚</JapaneseText>
-      <EnglishText>Flying Volley</EnglishText>
+      <EnglishText>Flying Kick</EnglishText>
       <Notes/>
       <Id>1462</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056584</PointerOffset>
@@ -2206,10 +2206,10 @@ through with a penetrating shot.</EnglishText>
     <Entry>
       <PointerOffset>1056684</PointerOffset>
       <JapaneseText>蒼破連天脚</JapaneseText>
-      <EnglishText>Torrential Kick</EnglishText>
-      <Notes/>
+      <EnglishText>Torrential Dance</EnglishText>
+      <Notes>I.e Swallow dance hienrenkyaku</Notes>
       <Id>1468</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056688</PointerOffset>
@@ -2232,10 +2232,10 @@ then follow up with continuous kicks.</EnglishText>
     <Entry>
       <PointerOffset>1056736</PointerOffset>
       <JapaneseText>轟裂連牙弾</JapaneseText>
-      <EnglishText>Brutal Beatdown</EnglishText>
-      <Notes/>
+      <EnglishText>Roaring Storm</EnglishText>
+      <Notes>連牙弾 -&gt; Talon Storm</Notes>
       <Id>1471</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056740</PointerOffset>
@@ -2258,10 +2258,10 @@ sends it bursting forth.</EnglishText>
     <Entry>
       <PointerOffset>1056788</PointerOffset>
       <JapaneseText>轟裂斬空脚</JapaneseText>
-      <EnglishText>Brutal Volley</EnglishText>
+      <EnglishText>Roaring Kick</EnglishText>
       <Notes/>
       <Id>1474</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056792</PointerOffset>
@@ -2310,10 +2310,10 @@ forth with great range.</EnglishText>
     <Entry>
       <PointerOffset>1056892</PointerOffset>
       <JapaneseText>轟裂蒼翔閃</JapaneseText>
-      <EnglishText>Brutal Torrent</EnglishText>
+      <EnglishText>Roaring Torrent</EnglishText>
       <Notes/>
       <Id>1480</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056896</PointerOffset>
@@ -2336,10 +2336,10 @@ them down with a high-pressure spray.</EnglishText>
     <Entry>
       <PointerOffset>1056944</PointerOffset>
       <JapaneseText>愚連斬空脚</JapaneseText>
-      <EnglishText>Relentless Volley</EnglishText>
+      <EnglishText>Relentless Kick</EnglishText>
       <Notes/>
       <Id>1483</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1056948</PointerOffset>

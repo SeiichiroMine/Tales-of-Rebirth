@@ -93,7 +93,7 @@ No</EnglishText>
       <JapaneseText>じ、地面が揺れてるわ……！
 ど、どうなってるの!?
 </JapaneseText>
-      <EnglishText>T-The gound is shaking...
+      <EnglishText>Th-The gound is shaking...
 Wh-What's going on!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -171,7 +171,7 @@ be found right here.</EnglishText>
     <Entry>
       <PointerOffset>2813</PointerOffset>
       <JapaneseText>また今度来てください。</JapaneseText>
-      <EnglishText>Come back again.</EnglishText>
+      <EnglishText>Please come again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -181,7 +181,7 @@ be found right here.</EnglishText>
       <PointerOffset>2838</PointerOffset>
       <JapaneseText>ど、道具がほしいの？
 あ、あるけど……</JapaneseText>
-      <EnglishText>D-Did you want some items?
+      <EnglishText>W-Would you like some items?
 I-I have some here...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -191,7 +191,7 @@ I-I have some here...</EnglishText>
     <Entry>
       <PointerOffset>2866</PointerOffset>
       <JapaneseText>ど、どうも……</JapaneseText>
-      <EnglishText>H-Hello there...</EnglishText>
+      <EnglishText>Th-Thanks for shopping with us...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -324,7 +324,7 @@ to look at the geoglyph?</EnglishText>
       <JapaneseText>ヒュ、ヒューマが来ると、
 いつも面倒な事が……
 お、起きるのよ……</JapaneseText>
-      <EnglishText>W-Why is it that whenever
+      <EnglishText>Wh-Why is it that whenever
 H-Huma come, something
 t-troublesome happens...?</EnglishText>
       <Notes/>
@@ -556,9 +556,9 @@ Cancel</EnglishText>
       <PointerOffset>973</PointerOffset>
       <JapaneseText>見るだけはタダ。
 気に入ったら買っておくれ。</JapaneseText>
-      <EnglishText>Looking's free and all. Feel free
-to come buy if something
-catches your eye.</EnglishText>
+      <EnglishText>Looking won't cost you anything,
+but please buy if something catches
+your eye.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>46</Id>
@@ -600,9 +600,9 @@ yourself to come here.</EnglishText>
       <PointerOffset>1117</PointerOffset>
       <JapaneseText>見るだけはタダ。
 気に入ったら買っておくれ。</JapaneseText>
-      <EnglishText>Looking's free and all. Feel free
-to come buy if something
-catches your eye.</EnglishText>
+      <EnglishText>Looking won't cost you anything,
+but please buy if something catches
+your eye.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
@@ -647,9 +647,9 @@ soon, but...don't bother coming back.</EnglishText>
       <PointerOffset>1223</PointerOffset>
       <JapaneseText>見るだけはタダ。
 気に入ったら買っておくれ。</JapaneseText>
-      <EnglishText>Looking's free and all. Feel free
-to come buy if something
-catches your eye.</EnglishText>
+      <EnglishText>Looking won't cost you anything,
+but please buy if something catches
+your eye.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>54</Id>

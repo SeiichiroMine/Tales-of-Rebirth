@@ -323,7 +323,7 @@ I'll let you have them.</EnglishText>
     <Entry>
       <PointerOffset>2945</PointerOffset>
       <JapaneseText>ど、どうも、すみません……</JapaneseText>
-      <EnglishText>T-Thank you very much...</EnglishText>
+      <EnglishText>Th-Thank you very much...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -430,8 +430,9 @@ yet, I take it.</EnglishText>
       <JapaneseText>は、はい……覚書のように
 練習しているんですけど、
 なかなか……ごめんなさい。</JapaneseText>
-      <EnglishText>T-That right... I tried following those
-notes, but I haven't really... I'm sorry.</EnglishText>
+      <EnglishText>Th-That's right... I tried following
+those notes, but I haven't really...
+I'm sorry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -673,7 +674,7 @@ go all that way for me...?</EnglishText>
       <JapaneseText>気にすんなって。
 困った時はお互い様さ！</JapaneseText>
       <EnglishText>I told you not to worry about it.
-We'll be there for each other!</EnglishText>
+We'll be there for you!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -710,7 +711,7 @@ Amber Jewels!</EnglishText>
     <Entry>
       <PointerOffset>4398</PointerOffset>
       <JapaneseText>お待たせ♪</JapaneseText>
-      <EnglishText>Sorry to keep you waiting!♪</EnglishText>
+      <EnglishText>Sorry to keep you waiting♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>54</Id>
@@ -926,9 +927,9 @@ use it on command...</EnglishText>
       <JapaneseText>そうか。
 少しずつ慣れていけばいい。
 焦りや無理は禁物だ。</JapaneseText>
-      <EnglishText>I see. You need to take your
-time to get used to it. Don't
-rush it over overwork yourself.</EnglishText>
+      <EnglishText>I see. You need to take your time
+to get used to it. Don't rush it or
+you'll overwork yourself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>75</Id>
@@ -1389,7 +1390,7 @@ that I've gotten this far.</EnglishText>
 ニノンが努力した結果だぜ！
 ひとりでよく頑張ったな。</JapaneseText>
       <EnglishText>Nooo, it wasn't us... It's
-the result of &lt;Italics&gt;your&lt;/Italics&gt; hard
+the result of &lt;Italic&gt;your&lt;/Italic&gt; hard
 work! You've done well
 to get where you are.</EnglishText>
       <Notes/>
@@ -1775,7 +1776,7 @@ off my chest.</EnglishText>
       <JapaneseText>よかった。
 顔色も良くなってきたし……
 もう大丈夫ですね。</JapaneseText>
-      <EnglishText>That's good. You're complexion looks
+      <EnglishText>That's good. Your complexion looks
 like it has improved as well...
 I think you're all better now.</EnglishText>
       <Notes/>
@@ -2275,7 +2276,7 @@ No</EnglishText>
 There are plates and seasonings on
 the shelves. On the top shelf is a
 copy of the "Complete Collection
-of Callegean Cooking".</EnglishText>
+of Callegean Cooking."</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>195</Id>

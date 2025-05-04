@@ -303,7 +303,7 @@ though I were her... Please.</EnglishText>
       <VoiceId>3c00000e</VoiceId>
       <JapaneseText>……ああ。
 行こう……&lt;Red&gt;クレア&lt;White&gt;。</JapaneseText>
-      <EnglishText>Alright. Let's go, &lt;Red&gt;Claire&lt;White&gt;.</EnglishText>
+      <EnglishText>All right. Let's go, &lt;Red&gt;Claire&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -859,9 +859,8 @@ like this..! Oh, what to do...</EnglishText>
       <PointerOffset>3555</PointerOffset>
       <JapaneseText>ホント、どうしましょ！
 どうすればいいの!?</JapaneseText>
-      <EnglishText>Really, what should
-I do! What would
-be good to do!?</EnglishText>
+      <EnglishText>Really, what should I do?!
+What good CAN I do?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
@@ -871,8 +870,8 @@ be good to do!?</EnglishText>
       <PointerOffset>3577</PointerOffset>
       <JapaneseText>……私が騒いでも
 どうしようもないんだけど……</JapaneseText>
-      <EnglishText>...Even though yelling about
-it isn't going to help...</EnglishText>
+      <EnglishText>...Although yelling about it
+isn't going to help, I guess...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -1031,7 +1030,7 @@ Poor Claire!</EnglishText>
       <JapaneseText>クレアが連れ去られたのも……
 &lt;Veigue&gt;のせいだって……</JapaneseText>
       <EnglishText>Claire was kidnapped...
-And it's &lt;Veigue&gt;'s fault...</EnglishText>
+And it's your fault...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
@@ -1041,7 +1040,7 @@ And it's &lt;Veigue&gt;'s fault...</EnglishText>
       <PointerOffset>2807</PointerOffset>
       <JapaneseText>いや、だって……
 母ちゃんが……</JapaneseText>
-      <EnglishText>No, well... That's what
+      <EnglishText>Erm, well... That's what
 my mom said...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
@@ -1053,7 +1052,7 @@ my mom said...</EnglishText>
       <JapaneseText>またなんかあったの？
 &lt;Veigue&gt;がまた……??</JapaneseText>
       <EnglishText>Did something happen again?
-Was it &lt;Veigue&gt; again...?</EnglishText>
+Was it you again...?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>83</Id>

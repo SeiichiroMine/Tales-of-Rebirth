@@ -711,7 +711,7 @@ Aim for several enemies at once.</EnglishText>
 料理と術技と作戦をうまく使いましょう。</JapaneseText>
       <EnglishText>You will also get a bonus when everyone 
 is at full HP at the end of the battle. 
-Make use of cooking, artes, and tactics.</EnglishText>
+Make use of cooking, artes, and strategy.</EnglishText>
       <Notes/>
       <Id>576</Id>
       <Status>Proofreading</Status>
@@ -811,10 +811,9 @@ to their equipment's awakening rate.</EnglishText>
       <JapaneseText>かなり覚醒を重ねたようですね。
 回数をこなせばこなすほど
 高ランクの効果になる可能性が。</JapaneseText>
-      <EnglishText>It seems you have achieved awakening 
-a lot of times. The more you do this,
-the more likely it is that you get high
-ranked effects.</EnglishText>
+      <EnglishText>It seems you have achieved awakening many
+times. The more you do this, the more likely
+it is that you acquire high ranked effects.</EnglishText>
       <Notes/>
       <Id>585</Id>
       <Status>Proofreading</Status>
@@ -876,7 +875,7 @@ That's a whole hecking lot there, brother.</EnglishText>
     <Entry>
       <PointerOffset>24440</PointerOffset>
       <JapaneseText>武具を継承して融合した回数です。</JapaneseText>
-      <EnglishText>Number of times that armors have
+      <EnglishText>Number of times that equipment has
 been inherited and fused.</EnglishText>
       <Notes/>
       <Id>591</Id>
@@ -946,7 +945,7 @@ conditions have been met.</EnglishText>
       <PointerOffset>24488</PointerOffset>
       <JapaneseText>同じ武具同士を継承しても
 形状変化の可能性はないとの噂です。</JapaneseText>
-      <EnglishText>It's rumoured that there is no possibility of 
+      <EnglishText>It's rumored that there is no possibility of 
 a change in shape when the same armor is 
 inherited from another.</EnglishText>
       <Notes/>
@@ -957,7 +956,7 @@ inherited from another.</EnglishText>
       <PointerOffset>24496</PointerOffset>
       <JapaneseText>継承は必ず継承元の武具の方が、
 低いランクである必要があるとの噂です。</JapaneseText>
-      <EnglishText>It's rumoured that the inheritance must always
+      <EnglishText>It's rumored that the inheritance must always
 be of a lower rank than the equipment from
 which it is inherited.</EnglishText>
       <Notes/>
@@ -970,7 +969,7 @@ which it is inherited.</EnglishText>
 極まれに、さらに多くの属性が付く
 という噂も……？
 </JapaneseText>
-      <EnglishText>There are also rumours that inheriting
+      <EnglishText>There are also rumors that inheriting
 equipment with stat bonuses will, in extremely
 rare cases, give you even more stat bonues...</EnglishText>
       <Notes/>
@@ -1253,7 +1252,7 @@ You really love cooking!</EnglishText>
       <EnglishText>You've cooked 50,000 times. 
 That's the maximum value.
 This dish is FUCKING RAW, Veigue!</EnglishText>
-      <Notes/>
+      <Notes>iirc, this line does not actually appear ingame.</Notes>
       <Id>624</Id>
       <Status>Proofreading</Status>
     </Entry>
@@ -1261,9 +1260,9 @@ This dish is FUCKING RAW, Veigue!</EnglishText>
       <PointerOffset>24712</PointerOffset>
       <JapaneseText>ある何かに関する回数。
 ０でも普通です。</JapaneseText>
-      <EnglishText>This is the number of armor mutations.
-It's not strange to have never had
-this happen.</EnglishText>
+      <EnglishText>This is how many armor mutations have
+occurred. It's not uncommon to never
+have one happen during a playthrough.</EnglishText>
       <Notes/>
       <Id>625</Id>
       <Status>Proofreading</Status>
@@ -1275,7 +1274,7 @@ this happen.</EnglishText>
 つまり、武具の突然変異の回数なのです！</JapaneseText>
       <EnglishText>It's a miracle! This is the &lt;Yellow&gt;Irregular&lt;White&gt; count.
 In other words, the number of times
-your amors have mutated!</EnglishText>
+your equipment has mutated!</EnglishText>
       <Notes/>
       <Id>626</Id>
       <Status>Proofreading</Status>

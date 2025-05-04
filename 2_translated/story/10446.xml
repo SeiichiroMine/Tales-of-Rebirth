@@ -209,8 +209,8 @@ this town...</EnglishText>
       <JapaneseText>力仕事か、何か知らんが、
 ワシには無理じゃ。</JapaneseText>
       <EnglishText>I'm guessing he needs them
-for physical labor, because I
-can't help.</EnglishText>
+for physical labor, because
+I can't help.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -505,7 +505,7 @@ The owner must be quite conservative.</EnglishText>
       <PointerOffset>843</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『基礎の古代カレギア語文法』
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-Basic Grammar of Ancient Callegean -</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Basic Grammar of Ancient Callegean -</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>

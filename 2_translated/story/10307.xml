@@ -196,7 +196,7 @@ has been haunting me...</EnglishText>
       <JapaneseText>よっしゃ、わかった！
 オレが声の正体を調べてやる。
 原因がわかれば、怖くないだろ？</JapaneseText>
-      <EnglishText>Alright, got it! I'll get to the
+      <EnglishText>All right, got it! I'll get to the
 bottom of this. If you know
 what's making it, then it's
 then not going to scare you
@@ -565,11 +565,11 @@ take it as it comes.</EnglishText>
 おいしそうなものが入ってるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
       <EnglishText>Ooh! Looks like there's something
-tasty in here! Lemme take a bite.</EnglishText>
-      <Notes/>
+tasty in here! Lemme take a sip.</EnglishText>
+      <Notes>this one is different because the food item is fruit punch.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1911</PointerOffset>
@@ -662,7 +662,7 @@ well, why don't you come live here?</EnglishText>
       <PointerOffset>1074</PointerOffset>
       <JapaneseText>君はガジュマと一緒だけど、
 いじめたりしてない……よね？</JapaneseText>
-      <EnglishText>But since you're travelling with a
+      <EnglishText>But since you're traveling with a
 Gajuma, then you aren't the type
 to bully them...are you?</EnglishText>
       <Notes/>

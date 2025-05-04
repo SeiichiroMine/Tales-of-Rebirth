@@ -603,7 +603,7 @@ I have to talk to one...</EnglishText>
       <JapaneseText>おじちゃん、
 ヒューマと一緒にいて、
 大丈夫なの？</JapaneseText>
-      <EnglishText>Are you alright being
+      <EnglishText>Are you all right being
 together with Huma?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -788,9 +788,8 @@ was kidnapped.</EnglishText>
       <PointerOffset>2175</PointerOffset>
       <JapaneseText>一体、何が目的なんだ？
 金か？</JapaneseText>
-      <EnglishText>Why would they do such
-a thing? Are they holding
-her for ransom?</EnglishText>
+      <EnglishText>Why would they do such a thing?
+Are they holding her for ransom?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>60</Id>
@@ -1190,7 +1189,7 @@ just a merchant.</EnglishText>
 気をつけろ！
 </JapaneseText>
       <EnglishText>You take care of yourself.
-Alright, &lt;Tytree&gt;?</EnglishText>
+All right, &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>92</Id>

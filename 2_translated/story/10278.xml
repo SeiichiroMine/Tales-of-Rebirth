@@ -364,7 +364,7 @@ hands now.</EnglishText>
       <JapaneseText>先生、&lt;Annie&gt;を
 よろしくネ♪</JapaneseText>
       <EnglishText>Doctor, please take good
-care of &lt;Annie&gt;!♪</EnglishText>
+care of &lt;Annie&gt;♪</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
@@ -894,7 +894,7 @@ leaving like this?</EnglishText>
       <PointerOffset>5550</PointerOffset>
       <VoiceId>11000101</VoiceId>
       <JapaneseText>大丈夫ですか!?</JapaneseText>
-      <EnglishText>Are you alright!?</EnglishText>
+      <EnglishText>Are you all right!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>68</Id>
@@ -1275,7 +1275,7 @@ could potentially happen again.</EnglishText>
 でも、このまま放っておけば、取り返しの
 つかない事になるような気がするわ。</JapaneseText>
       <EnglishText>I have no idea what those in charge
-of this kingdom are thinking, but
+of this Kingdom are thinking, but
 what I do know is that if things
 carry on the way they are, there
 will be no going back.</EnglishText>
@@ -1400,7 +1400,7 @@ exactly...</EnglishText>
       <PointerOffset>7640</PointerOffset>
       <VoiceId>3b000029</VoiceId>
       <JapaneseText>手を見せてくれる？</JapaneseText>
-      <EnglishText>Alright, show me your hand.</EnglishText>
+      <EnglishText>All right, show me your hand.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>111</Id>
@@ -2041,7 +2041,7 @@ in your thoughts...</EnglishText>
       <JapaneseText>&lt;Veigue&gt;、くれぐれも
 無理はしないで……いいわね。</JapaneseText>
       <EnglishText>&lt;Veigue&gt;, please don't
-push yourself, alright?</EnglishText>
+push yourself, all right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>165</Id>

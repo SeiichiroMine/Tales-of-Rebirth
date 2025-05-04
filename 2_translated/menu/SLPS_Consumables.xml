@@ -58,7 +58,7 @@
     <Entry>
       <PointerOffset>1076752</PointerOffset>
       <JapaneseText>ウッチャリグミ</JapaneseText>
-      <EnglishText>Comeback Gel</EnglishText>
+      <EnglishText>Rebound Gel</EnglishText>
       <Notes/>
       <Id>2950</Id>
       <Status>Proofreading</Status>
@@ -393,11 +393,11 @@ Raises FG Regen by 1.</EnglishText>
       <PointerOffset>1077188</PointerOffset>
       <JapaneseText>武器に使うと斬撃攻撃力が
 防具に使うと斬撃防御力が１上昇する。</JapaneseText>
-      <EnglishText>Raises weapon's Slash ATK. by 1.
-Raises armor's Slash Def. by 1.</EnglishText>
+      <EnglishText>Raises weapon's Slash ATK by 1.
+Raises armor's Slash DEF by 1.</EnglishText>
       <Notes/>
       <Id>2987</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1077208</PointerOffset>
@@ -411,29 +411,29 @@ Raises armor's Slash Def. by 1.</EnglishText>
       <PointerOffset>1077212</PointerOffset>
       <JapaneseText>武器に使うと打撃攻撃力が
 防具に使うと打撃防御力が１上昇する。</JapaneseText>
-      <EnglishText>Raises weapon's Blunt ATK. by 1.
-Raises armor's Blunt Def. by 1.</EnglishText>
+      <EnglishText>Raises weapon's Blunt ATK by 1.
+Raises armor's Blunt DEF by 1.</EnglishText>
       <Notes/>
       <Id>2989</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1077232</PointerOffset>
       <JapaneseText>術錬石</JapaneseText>
-      <EnglishText>Spirit Ore</EnglishText>
+      <EnglishText>Force Ore</EnglishText>
       <Notes/>
       <Id>2990</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1077236</PointerOffset>
       <JapaneseText>武器に使うと術攻撃力が
 防具に使うと術防御力が１上昇する。</JapaneseText>
-      <EnglishText>Raises weapon's F. ATK. by 1.
-Raises armor's F. ATK. by 1.</EnglishText>
+      <EnglishText>Raises weapon's Force ATK by 1.
+Raises armor's Force DEF by 1.</EnglishText>
       <Notes/>
       <Id>2991</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1077256</PointerOffset>
@@ -609,7 +609,7 @@ fortune. Also called a Maneki Neko.</EnglishText>
       <PointerOffset>1077476</PointerOffset>
       <JapaneseText>武具に使用すると火属性が付加される。
 属性が付加されていない武具にのみ使用可能。</JapaneseText>
-      <EnglishText>Adds Flame element to equipment.
+      <EnglishText>Adds Fire element to equipment.
 Only usable if there is no element.</EnglishText>
       <Notes/>
       <Id>3011</Id>
@@ -627,7 +627,7 @@ Only usable if there is no element.</EnglishText>
       <PointerOffset>1077500</PointerOffset>
       <JapaneseText>武具に使用すると水属性が付加される。
 属性が付加されていない武具にのみ使用可能。</JapaneseText>
-      <EnglishText>Adds Aqua element to equipment.
+      <EnglishText>Adds Water element to equipment.
 Only usable if there is no element.</EnglishText>
       <Notes/>
       <Id>3013</Id>
@@ -699,7 +699,7 @@ Only usable if there is no element.</EnglishText>
       <PointerOffset>1077596</PointerOffset>
       <JapaneseText>武具に使用すると闇属性が付加される。
 属性が付加されていない武具にのみ使用可能。</JapaneseText>
-      <EnglishText>Adds Shade element to equipment.
+      <EnglishText>Adds Dark element to equipment.
 Only usable if there is no element.</EnglishText>
       <Notes/>
       <Id>3021</Id>
@@ -771,8 +771,8 @@ making lots of spaghetti.</EnglishText>
       <PointerOffset>1077692</PointerOffset>
       <JapaneseText>牛肉。肉質とうまみの豊かさは
 大自然で育まれたゆえのもの。</JapaneseText>
-      <EnglishText>Meat from a cow. The best
-beef comes from grass-fed cows.</EnglishText>
+      <EnglishText>Meat from a cow. The best beef
+comes from grass-fed cows.</EnglishText>
       <Notes/>
       <Id>3029</Id>
       <Status>Proofreading</Status>
@@ -1667,8 +1667,8 @@ carbonized plant matter.</EnglishText>
       <PointerOffset>1079300</PointerOffset>
       <JapaneseText>「我ら…蒼き海…蒼き空…蒼き都市に生まれん
 　愛しき海愛しき空…かの海と空守り伝えん」</JapaneseText>
-      <EnglishText>"We...azure sea and skies...birth...beloved
- sea and skies...grant us thy blessings."</EnglishText>
+      <EnglishText>"We are born of...azure sea...azure sky...azure city...
+beloved  sea...beloved sky...grant us thy blessings."</EnglishText>
       <Notes/>
       <Id>3132</Id>
       <Status>Proofreading</Status>
@@ -1676,10 +1676,10 @@ carbonized plant matter.</EnglishText>
     <Entry>
       <PointerOffset>1079320</PointerOffset>
       <JapaneseText>闇のエメラルド</JapaneseText>
-      <EnglishText>Dark Emerald</EnglishText>
+      <EnglishText>Emerald of Shade</EnglishText>
       <Notes/>
       <Id>3133</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079324</PointerOffset>
@@ -1695,10 +1695,10 @@ I have fixes the name -pegi</Notes>
     <Entry>
       <PointerOffset>1079344</PointerOffset>
       <JapaneseText>火のルビー</JapaneseText>
-      <EnglishText>Fire Ruby</EnglishText>
+      <EnglishText>Ruby of Flames</EnglishText>
       <Notes/>
       <Id>3135</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079348</PointerOffset>
@@ -1713,10 +1713,10 @@ the Sacred Beast Fenia's power.</EnglishText>
     <Entry>
       <PointerOffset>1079368</PointerOffset>
       <JapaneseText>風のダイヤモンド</JapaneseText>
-      <EnglishText>Earth Diamond</EnglishText>
+      <EnglishText>Diamond of Wind</EnglishText>
       <Notes/>
       <Id>3137</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079372</PointerOffset>
@@ -1731,10 +1731,10 @@ the Sacred Beast Wontiga's power.</EnglishText>
     <Entry>
       <PointerOffset>1079392</PointerOffset>
       <JapaneseText>水のアクアマリン</JapaneseText>
-      <EnglishText>Aquamarine</EnglishText>
+      <EnglishText>Aquamarine of Water</EnglishText>
       <Notes/>
       <Id>3139</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079396</PointerOffset>
@@ -1749,10 +1749,10 @@ the Sacred Beast Shaorune's power.</EnglishText>
     <Entry>
       <PointerOffset>1079416</PointerOffset>
       <JapaneseText>光のアメジスト</JapaneseText>
-      <EnglishText>Light Amethyst</EnglishText>
+      <EnglishText>Amethyst of Light</EnglishText>
       <Notes/>
       <Id>3141</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079420</PointerOffset>
@@ -1767,10 +1767,10 @@ the Sacred Beast Gilione's power.</EnglishText>
     <Entry>
       <PointerOffset>1079440</PointerOffset>
       <JapaneseText>地のブラックダイヤ</JapaneseText>
-      <EnglishText>Black Diamond</EnglishText>
+      <EnglishText>Black Diamond of Earth</EnglishText>
       <Notes/>
       <Id>3143</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079444</PointerOffset>
@@ -1794,7 +1794,7 @@ the Sacred Beast Randgriz's power.</EnglishText>
       <PointerOffset>1079468</PointerOffset>
       <JapaneseText>カレギア王国軍発行の通行許可証。
 </JapaneseText>
-      <EnglishText>A document permitting travel
+      <EnglishText>A document permitting travel.
 issued by the Callegea Royal Army.</EnglishText>
       <Notes/>
       <Id>3146</Id>
@@ -1963,7 +1963,7 @@ to a secret door in the Iron Factory.</EnglishText>
       <JapaneseText>登山洞のレバーを直すために必要な鉱石。
 </JapaneseText>
       <EnglishText>An ore needed to fix the lever
-in the Climber's Cavern.</EnglishText>
+in the Climbers' Cavern.</EnglishText>
       <Notes/>
       <Id>3165</Id>
       <Status>Proofreading</Status>
@@ -1988,10 +1988,10 @@ in the Climber's Cavern.</EnglishText>
     <Entry>
       <PointerOffset>1079752</PointerOffset>
       <JapaneseText>スールズ牛乳印のミルク缶</JapaneseText>
-      <EnglishText>Sulz Milk Carton</EnglishText>
+      <EnglishText>Sulz Milk Can</EnglishText>
       <Notes/>
       <Id>3168</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1079756</PointerOffset>
@@ -2192,8 +2192,8 @@ Some are said to be edible...</EnglishText>
       <PointerOffset>1080020</PointerOffset>
       <JapaneseText>デスガロ熱の特効薬の原料となる、
 幻のバイラス・リブガロの角。</JapaneseText>
-      <EnglishText>The horn of the Mirage Birus. A raw material
-used in the medicine to treat Deathgaro Flu.</EnglishText>
+      <EnglishText>The horn of the Birus of Illusion. A raw material
+used in the medicine to treat Deathgaro Fever.</EnglishText>
       <Notes/>
       <Id>3191</Id>
       <Status>Proofreading</Status>
@@ -2253,10 +2253,10 @@ by an ostrich.</EnglishText>
     <Entry>
       <PointerOffset>1080112</PointerOffset>
       <JapaneseText>アカトゲサボテン</JapaneseText>
-      <EnglishText>Red-Thorned Cacti</EnglishText>
+      <EnglishText>Red-Thorned Cactus</EnglishText>
       <Notes/>
       <Id>3198</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1080116</PointerOffset>
